@@ -15,7 +15,7 @@ I enjoy creating clean user interfaces, working with APIs, and contributing to r
 ## 🧰 Tech Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 - **Mobile:** React Native (Expo)  
-- **Backend:** Node.js, Express, .NET (basic)  
+- **Backend:** Node.js, Express, .NET (basic), **Java, Kotlin**  
 - **Cloud:** AWS (Lambda, API Gateway, Cognito, S3)  
 - **Databases:** PostgreSQL, DynamoDB  
 - **Tools:** Git, GitHub, CI/CD, Docker (basic)  
@@ -26,8 +26,8 @@ I enjoy creating clean user interfaces, working with APIs, and contributing to r
 
 ### 🚗 Polestar – Automotive & Mobile App Developer (Internship)
 - Developed in-car and mobile UI using **React, React Native, and TypeScript**
+- Worked with backend services using **Java and Kotlin**
 - Contributed through **code reviews, merged pull requests, and feature enhancements**
-- Worked with backend integrations and CI/CD workflows
 - Collaborated in an agile, product-driven development team
 
 ### 📰 Newsplitter – Fullstack Developer
@@ -41,15 +41,10 @@ I enjoy creating clean user interfaces, working with APIs, and contributing to r
 ## 🚀 Projects
 
 ### ⭐ Featured
-- **NewFullstackApp-Secure** – Fullstack JavaScript application with authentication & APIs  
-- **HistoryHunt** – React Native mobile app for exploring historical content  
-- **Food-App** – JavaScript-based application  
-- **React-native-Course-App** – Learning project for mobile development  
-
-### 🎓 School & Practice
-- Cloud & AWS infrastructure projects  
-- React Native exercises and UI components  
-- API-based applications using Node.js and Express  
+- **[NewFullstackApp-Secure](https://github.com/patilnandini1811/NewFullstackApp-Secure)** – Fullstack JavaScript app with authentication & APIs  
+- **[HistoryHunt](https://github.com/patilnandini1811/HistoryHunt)** – React Native mobile application  
+- **[Food-App](https://github.com/patilnandini1811/Food-App)** – JavaScript-based application  
+- **[React-native-Course-App](https://github.com/patilnandini1811/React-native-Course-App)** – Learning project  
 
 ---
 
