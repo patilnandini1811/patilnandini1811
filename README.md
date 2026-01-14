@@ -78,7 +78,7 @@ I enjoy creating clean user interfaces, working with APIs, and contributing to r
 
 ## 🛠 Languages and Tools
 
-![Languages and Tools](languages-tools.png)
+(languages-tools.png)
 
 
 ## 📫 Contact
