@@ -2,7 +2,7 @@
 
 💻 Jr. Fullstack Developer (Frontend-focused)  
 📍 Gothenburg, Sweden  
-☁️ React | TypeScript | AWS | Node.js  
+☁️ React | TypeScript | Next.js  | AWS | Node.js  
 
 ---
 
@@ -39,16 +39,44 @@ I enjoy creating clean user interfaces, working with APIs, and contributing to r
 ---
 
 ## 🚀 Projects
+---
+## 🎓 School Projects (Jensen / Coursework)
 
-### ⭐ Featured
-- **[NewFullstackApp-Secure](https://github.com/patilnandini1811/NewFullstackApp-Secure)** – Fullstack JavaScript app with authentication & APIs  
-- **[HistoryHunt](https://github.com/patilnandini1811/HistoryHunt)** – React Native mobile application  
-- **[Food-App](https://github.com/patilnandini1811/Food-App)** – JavaScript-based application  
-- **[React-native-Course-App](https://github.com/patilnandini1811/React-native-Course-App)** – Learning project  
+1. [Books-Library-Frontend](https://github.com/patilnandini1811/Books-Library-Frontend)
+2. [Books-Library-Backend](https://github.com/patilnandini1811/Books-Library-Backend)
+3. [GraphQL-Project-Management-App](https://github.com/patilnandini1811/GraphQL-Project-Management-App)
+4. [fullstackApp](https://github.com/patilnandini1811/fullstackApp)
+5. [my-react-calculator](https://github.com/patilnandini1811/my-react-calculator)
+6. [To-Do-App](https://github.com/patilnandini1811/To-Do-App)
+7. [my-dictionary-app](https://github.com/patilnandini1811/my-dictionary-app)
+8. [React-native-Course-App](https://github.com/patilnandini1811/React-native-Course-App)
 
 ---
 
+## 👥 Group Projects
+
+1. [Netflix](https://github.com/patilnandini1811/Netflix)
+2. [Twitter](https://github.com/patilnandini1811/Twitter)
+
+---
+## 📱 React Native / Mobile Projects (School)
+
+1. [HistoryHunt](https://github.com/patilnandini1811/HistoryHunt)
+2. [Food-App](https://github.com/patilnandini1811/Food-App)
+3. [NewDogApp](https://github.com/patilnandini1811/NewDogApp)
+4. [NewFullstackApp-Secure](https://github.com/patilnandini1811/NewFullstackApp-Secure)
+5. [my-dog-app](https://github.com/patilnandini1811/my-dog-app)
+
+---
+## 📘 Learning Projects (Jensen)
+
+1. [SellBuyBiz](https://github.com/patilnandini1811/SellBuyBiz)
+2. [marketplace-app](https://github.com/patilnandini1811/marketplace-app)
+3. [Edusity-Web-App](https://github.com/patilnandini1811/Edusity-Web-App)
+4. [nandini-portfolio](https://github.com/patilnandini1811/nandini-portfolio)
+5. [r3-house-arbetsprov](https://github.com/patilnandini1811/r3-house-arbetsprov)
+
 ## 📫 Contact
-📧 Email: your-email@example.com  
+📧 Email: nandinip380961@gmail.com 
 🔗 LinkedIn: https://linkedin.com/in/your-profile  
 🌐 Portfolio: https://your-portfolio-link.com
