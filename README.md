@@ -68,7 +68,7 @@ I enjoy creating clean user interfaces, working with APIs, and contributing to r
 5. [my-dog-app](https://github.com/patilnandini1811/my-dog-app)
 
 ---
-## 📘 Learning Projects (Jensen)
+## 📘 Learning Projects
 
 1. [SellBuyBiz](https://github.com/patilnandini1811/SellBuyBiz)
 2. [marketplace-app](https://github.com/patilnandini1811/marketplace-app)
