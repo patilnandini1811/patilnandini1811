@@ -76,7 +76,10 @@ I enjoy creating clean user interfaces, working with APIs, and contributing to r
 4. [nandini-portfolio](https://github.com/patilnandini1811/nandini-portfolio)
 5. [r3-house-arbetsprov](https://github.com/patilnandini1811/r3-house-arbetsprov)
 
-![Languages and Tools](assets/tools.png)
+## 🛠 Languages and Tools
+
+![Languages and Tools](languages-tools.png)
+
 
 ## 📫 Contact
 📧 Email: nandinip380961@gmail.com 
