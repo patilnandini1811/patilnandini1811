@@ -76,9 +76,12 @@ I enjoy creating clean user interfaces, working with APIs, and contributing to r
 4. [nandini-portfolio](https://github.com/patilnandini1811/nandini-portfolio)
 5. [r3-house-arbetsprov](https://github.com/patilnandini1811/r3-house-arbetsprov)
 
-## 🛠 Languages and Tools
+<h2>🛠 Languages and Tools</h2>
 
-(languages-tools.png)
+<p align="center">
+  <img src="tools.png" alt="Languages and Tools" width="800">
+</p>
+
 
 
 ## 📫 Contact
